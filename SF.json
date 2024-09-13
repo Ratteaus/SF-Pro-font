@@ -1,4 +1,8 @@
-     "fonts":{
+{
+    "spec": 1,
+    "name": "San Francisco",
+    "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
+    "fonts":{
         "ABCGintoNord-ExtraBold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
         "ggsans-Bold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
         "ggsans-BoldItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
@@ -18,3 +22,4 @@
         "NotoSans-Semibold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
         "SourceCodePro-Semibold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg"
       }
+}
