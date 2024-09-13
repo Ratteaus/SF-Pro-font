@@ -1,8 +1,8 @@
 {
     "spec": 1,
-    "name": "San Francisco",
+    "name": "SF-Sans",
     "previewText": "The insufferable amount of pain you went through doing this fills you with determination.",
-    "fonts":{
+    "main": {
         "ABCGintoNord-ExtraBold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "ggsans-Bold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "ggsans-BoldItalic": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
@@ -13,13 +13,13 @@
         "ggsans-Normal": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "ggsans-NormalItalic": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "ggsans-Semibold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
-        "ggsans-SemiboldItalic": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
+        "ggsans-SemiboldItalic": "l",
         "NotoSans-Bold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
-        "NotoSans-ExtraBold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
+        "NotoSans-ExtraBold": "l",
         "NotoSans-Medium": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "NotoSans-Normal": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "NotoSans-NormalItalic": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "NotoSans-Semibold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf",
         "SourceCodePro-Semibold": "https://github.com/thelioncape/San-Francisco-family/blob/master/SF%20Pro/SF-Pro-Text-Regular.ttf"
-      }
+    }
 }
