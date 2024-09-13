@@ -1,0 +1,22 @@
+```
+     "fonts":{
+        "ABCGintoNord-ExtraBold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-Bold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-BoldItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-ExtraBold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-ExtraBoldItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-Medium": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-MediumItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-Normal": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-NormalItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-Semibold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "ggsans-SemiboldItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-Bold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-ExtraBold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-Medium": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-Normal": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-NormalItalic": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "NotoSans-Semibold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg",
+        "SourceCodePro-Semibold": "https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg"
+      }
+```
